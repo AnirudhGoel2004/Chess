@@ -4,4 +4,4 @@ Embark on an immersive chess experience with this robust C++ Chess Program. Expl
 
 Engage in challenging matches with the added dimension of time, as a clock implementation enhances the gameplay dynamics. Whether you're fine-tuning your strategies against human opponents or testing your skills against varying computer difficulties, this Chess Program delivers a comprehensive and feature-rich chess-playing environment.
 
-![image]()
+<img width="294" alt="Screenshot 2024-01-10 at 1 19 42 PM" src="https://github.com/AnirudhGoel2004/Chess/assets/86214734/1408e23c-8cec-4db1-a7dc-7a71e53cd678">
